@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#container {
+    aspect-ratio: 1/1;
+    display: grid;
+    height: 90vh;
+    margin: 2rem;
+    border: 3px solid pink;
+}
+
